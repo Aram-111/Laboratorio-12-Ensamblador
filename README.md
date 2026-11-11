@@ -4,12 +4,10 @@
 
 ---
 
-## 🎥 Enlace al Video (Demostración)
-parte 1
-https://drive.google.com/file/d/1kfqXeM4-FmxQviBph3-zZhEkFe4K1zsf/view?usp=sharing
-parte 2
-https://drive.google.com/file/d/1tzs-piwjQaJiAFiwejdeCQ0LJhv6Gz3T/view?usp=sharing
+## 🎥 Enlaces a los Videos (Demostración)
 
+* [▶️ Ver demostración de la Parte 1](https://drive.google.com/file/d/1kfqXeM4-FmxQviBph3-zZhEkFe4K1zsf/view?usp=sharing)
+* [▶️ Ver demostración de la Parte 2](https://drive.google.com/file/d/1tzs-piwjQaJiAFiwejdeCQ0LJhv6Gz3T/view?usp=sharing)
 ---
 
 ## ⚙️ Instrucciones de Compilación
@@ -117,7 +115,7 @@ end
 ```
 </details>
 
-### Código Modificado (Checklist CL-3)
+### Código Modificado 
 Se modificó la posición y el color usando `0x00050028` para la coordenada y `0x41` para el atributo de texto.
 <details>
 <summary>Haz clic para ver el código modificado</summary>
@@ -320,7 +318,7 @@ end
 ```
 </details>
 
-### Código Modificado (Checklist CL-7)
+### Código Modificado 
 Se modificó el carácter por `'O'`, la velocidad a `150ms`, y la dirección para que camine **de derecha a izquierda**.
 <details>
 <summary>Haz clic para ver el código modificado</summary>
