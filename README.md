@@ -1,3 +1,4 @@
+# Aram Gutierrez Alcantar
 # Laboratorio 12 - Pintar y Animar un Carácter en Ensamblador
 
 **Objetivo:** Desarrollar un programa en ensamblador de 64 bits para Windows que pinte un carácter en una posición específica usando colores, y posteriormente animarlo moviéndolo por la consola utilizando la API de Windows (`SetConsoleCursorPosition`, `SetConsoleTextAttribute`, `WriteConsoleA`, `Sleep`).
