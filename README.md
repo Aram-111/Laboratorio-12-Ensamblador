@@ -204,9 +204,6 @@ end
 ```
 </details>
 
-**Captura de pantalla Parte 1:**
-![Parte 1](captura_parte1.png) *(Nota: Asegúrate de subir una imagen con este nombre a tu repositorio)*
-
 ---
 
 ## 🏃‍♂️ Parte 2: Animación Básica
